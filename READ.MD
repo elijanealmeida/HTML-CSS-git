@@ -1,0 +1,1 @@
+Significado HTML é o esqueleto da aplicação, e o CSS é a beleza do site.
